@@ -1,0 +1,63 @@
+body {
+  
+  font-family: Georgia;
+ text-align: center;
+
+  
+}
+/* 
+p {
+  font-size: 24px
+  
+} */
+
+h1 {
+    font-size:36px;
+    line-height: 30px;
+    color: Navy;
+    margin: auto;
+    width: 92%;
+    padding: 30px;
+    text-align: center;
+    background-color: Lavender;
+  
+}
+
+p {
+    font-size:24px;
+    line-height: 30px;
+    color: white;
+    margin: auto;
+    width: 92%;
+    padding: 30px;
+    text-align: center;
+    background-color: Lavender;
+  
+}
+
+h2 {
+    font-size:18px;
+    color: black;
+    margin: auto;
+
+  
+  
+}
+
+.box {
+  background-color: green;
+  height: 10%;
+  width:100%;
+  top:0;
+  position:fixed;
+  
+}
+
+.box2 {
+  background-color: green;
+  height: 10%;
+  width:100%;
+  bottom:0;
+  position:fixed;
+  
+}
